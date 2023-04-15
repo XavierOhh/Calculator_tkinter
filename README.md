@@ -1,4 +1,6 @@
 # Calculator_tkinter
+Comments in French  代码注释为法语
+
 Simple calculator program based on python's built-in GUI library "tkinter". 
 Implemented : 
     +, -, ×, ÷; 
